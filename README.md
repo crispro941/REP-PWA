@@ -57,11 +57,3 @@ Este proyecto está licenciado bajo la licencia MIT.
 
 * Asegúrate de tener una conexión a Internet estable para escuchar la transmisión de radio en vivo.
 * La disponibilidad de la estación de radio depende de su proveedor.
-
-**Cambios Clave:**
-
-* Se ha modificado la sección de "Instalación" para reflejar que es una instalación personalizada.
-* Se ha agregado la recomendación de contactar con usted para cualquier cambio o mejora.
-* Se ha modificado la seccion de contribucion.
-
-Con este README, queda claro que la instalación y personalización del reproductor se gestionan de forma centralizada.
